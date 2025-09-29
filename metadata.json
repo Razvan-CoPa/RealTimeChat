@@ -1,0 +1,5 @@
+{
+  "name": "Fullstack Real-time Chat App 2.2",
+  "description": "A feature-rich chat application built with React and Tailwind CSS. It simulates a full-stack experience with user authentication, real-time messaging, and file sharing capabilities.",
+  "requestFramePermissions": []
+}
