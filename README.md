@@ -5,6 +5,17 @@ Frontend is built with **Vite + React + TypeScript**. Backend is **Node.js (Expr
 
 > This README was generated from the current project structure (September 2025). If you change files or scripts, update the docs accordingly.
 
+
+---
+
+## Design
+<img width="804" height="683" alt="Screenshot 2025-09-30 100243" src="https://github.com/user-attachments/assets/bec25088-c52e-4a33-b6a7-27eacab6b191" />
+<img width="1068" height="814" alt="Screenshot 2025-09-30 100231" src="https://github.com/user-attachments/assets/ba36e7ea-e063-43f3-a9d3-3e27d4d725c3" />
+<img width="1475" height="1418" alt="Screenshot 2025-09-30 100336" src="https://github.com/user-attachments/assets/dc1275d0-d9b6-4131-ab0e-77d9ad18677a" />
+<img width="1450" height="1277" alt="Screenshot 2025-09-30 100351" src="https://github.com/user-attachments/assets/cb4d951e-fff7-46ed-b2ab-b469c9612126" />
+<img width="1339" height="1729" alt="Screenshot 2025-09-30 101054" src="https://github.com/user-attachments/assets/413ccb15-55c7-4f7c-9b61-2a6d6890a12f" />
+
+
 ---
 
 ## ✨ Features
@@ -225,3 +236,4 @@ MIT (or your preferred license). Update this section if you choose a different l
 - Initial scaffolding with Vite + React + TS
 - Backend built with Express 5, Sequelize, and Socket.IO
 - Generated README authored with the help of ChatGPT
+
