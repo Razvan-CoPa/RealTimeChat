@@ -1,3 +1,4 @@
+
 export type ThemeOption = 'dark' | 'light';
 
 export interface User {
